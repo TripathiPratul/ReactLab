@@ -1,0 +1,17 @@
+{
+  "name": "react-lab",
+  "version": "1.0.0",
+  "description": "Step by step tutorial for RactJs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "Pratul Tripathi",
+  "license": "N/A",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
